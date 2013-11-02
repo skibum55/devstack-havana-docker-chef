@@ -19,6 +19,6 @@
 
 include_recipe "docker::default"
 
-include_recipe "devstack-havana-docker-chef::docker_install"
+include_recipe "devstack-havana-docker-chef::_docker_install"
 
 include_recipe "devstack::default"
