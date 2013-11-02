@@ -1,6 +1,6 @@
 [submodule "chef-docker"]
 	path = chef-docker
-	uri = ssh://git@github.com/bflad/chef-docker.git
+	url = ssh://git@github.com/bflad/chef-docker.git
 [submodule "devstack-chef"]
 	path = devstack-chef
 	url = ssh://git@github.com/cjoelrun/devstack-chef.git
