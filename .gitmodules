@@ -1,0 +1,6 @@
+[submodule "chef-docker"]
+	path = chef-docker
+	url = https://github.com/bflad/chef-docker.git
+[submodule "devstack-chef"]
+	path = devstack-chef
+	url = https://github.com/cjoelrun/devstack-chef.git
