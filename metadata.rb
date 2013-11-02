@@ -1,4 +1,4 @@
-name             "devstack-docker"
+name             "devstack-havana-docker-chef"
 maintainer       "Sean Keery"
 maintainer_email "skibum55@homail.com"
 license          "Apache 2.0"
