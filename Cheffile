@@ -1,0 +1,13 @@
+site 'http://community.opscode.com/api/v1'
+
+###
+#
+# Default Suite
+#
+###
+
+cookbook "chef-docker",
+  :git => "https://github.com/bflad/chef-docker.git"
+
+cookbook "devstack-chef",
+  :git => "https://github.com/cjoelrun/devstack-chef.git"
