@@ -15,8 +15,10 @@ remaining recipes are intended to put monitoring checks in place in
 order to monitor specific services (eg. `recipe[monitor::redis]`).
 
 
-Requirements - These have been added as submodules due to AWS Opsworks quirks
+Requirements 
 ============
+
+These have been added as submodules due to AWS Opsworks quirks
 
 The [chef-docker cookbook](https://github.com/bflad/chef-docker).  
 
