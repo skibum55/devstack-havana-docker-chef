@@ -7,7 +7,7 @@ site 'http://community.opscode.com/api/v1'
 ###
 
 cookbook "chef-docker",
-  :git => "https://github.com/bflad/chef-docker.git"
+  :github => '/bflad/chef-docker'
 
 cookbook "devstack-chef",
   :git => "https://github.com/cjoelrun/devstack-chef.git"
